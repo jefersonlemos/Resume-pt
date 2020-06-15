@@ -24,7 +24,7 @@ main {
     }
 
 header h1 {
-    font-size: 6.8rem;
+    font-size: 3.8rem;
     margin: 0;
 }
 main h3 {
@@ -40,8 +40,7 @@ main .fa {
 ul {
     list-style: none;
     padding: 0;
-    /* <- criado por mim para alterar tamanho da fonte dos dados */
-    font-size: 16px;   
+    font-size: 16px;
 }
 
 dt {
