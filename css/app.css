@@ -20,7 +20,7 @@ main {
     }
     header section:first-child,
     main section:first-child {
-        max-width: 45%;
+        max-width: 65%;
     }
 
 header h1 {
